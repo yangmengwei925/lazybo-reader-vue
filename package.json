@@ -1,0 +1,34 @@
+{
+  "name": "lazybo-reader-book",
+  "description": "vue web页面左右点击翻页阅读器；基于 vue-cli3 的 UI 组件",
+  "version": "2.1.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.4.4",
+    "vue": "^2.6.10",
+    "vue-class-component": "^7.0.2",
+    "vue-property-decorator": "^8.3.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-typescript": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "sass": "^1.23.7",
+    "sass-loader": "^8.0.0",
+    "typescript": "~3.5.3",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazybo-code/lazybo-reader-book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lazybo-code/lazybo-reader-book/issues"
+  },
+  "homepage": "https://github.com/lazybo-code/lazybo-reader-book#readme"
+}
